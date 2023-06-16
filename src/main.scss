@@ -66,7 +66,8 @@
 }
 
 .sn-component .sk-panel .sk-panel-footer .left {
-  color: var(--foreground);
+  background-color: var(--sn-stylekit-background-color);
+  color: var(--sn-stylekit-foreground-color);
 }
 
 #plus-editor label kbd {
